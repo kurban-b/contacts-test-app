@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Kurban",
+      "lastName": "Buev",
+      "login": "admin",
+      "password": "admin",
+      "token": "nrOSsjOyrMWxcexUpJkp4D83en8zVSdhwrt7iyE7nSrxVYYg41Dso1Q7mRBHR1czMLuBQgbh2aqYezVmJNS3nJNoT5MFVl7kRXn0"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "firstName": "Ivan",
+      "lastName": "Ivanov",
+      "phone": "+79991112255",
+      "email": "ddd334ff@mail.ru"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "firstName": "Adam",
+      "lastName": "Smith",
+      "phone": "+79997722330",
+      "email": "adam878@mail.ru"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "firstName": "Jon",
+      "lastName": "Jonson",
+      "phone": "+79991112299",
+      "email": "jon6543@mail.ru"
+    }
+  ]
+}
